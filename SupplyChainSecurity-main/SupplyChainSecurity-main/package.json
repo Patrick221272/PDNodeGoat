@@ -7,8 +7,8 @@
   "dependencies": {
     "handlebars": "4.7.9",
     "lodash": "4.17.11",
-    "ua-parser-js": "0.7.30",
-     "moment": "2.29.1",
+    "ua-parser-js": "0.7.29",
+     "momnet": "2.29.1",
     "@alexmsmithca/flow-dev-tools": "0.115.0",
     "scs": "0.0.1"
   },
